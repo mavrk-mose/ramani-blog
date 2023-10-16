@@ -6,11 +6,7 @@ import { searchArticles } from "../utilities/search";
 import { ARTICLE_LIST, Article } from "../models/mockData";
 import { useArticle } from "../store/useArticle";
 
-interface Props {
-  articles: Article[];
-}
-
-export default function Searchbar({ articles}: Props) {
+export default function Searchbar() {
 
   const { setSearchTerm, searchArticles, searchTerm } = useArticle();
 
