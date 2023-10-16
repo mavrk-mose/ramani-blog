@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2523801-2a86-49a7-8995-3613b52bd479" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/components/Searchbar.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/providers.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/globals.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/components/ArticleCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/ArticleCard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/components/Searchbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/Searchbar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/mockData.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/mockData.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tailwind.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +31,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "feature/search-bar",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -54,6 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1697124091923</updated>
       <workItem from="1697124093212" duration="3925000" />
+      <workItem from="1697366101022" duration="78000" />
     </task>
     <servers />
   </component>
